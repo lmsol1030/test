@@ -51,7 +51,7 @@ a:hover {
 }
 
 
-
+div > p  { color : red; }
 
 .right {
 	position: relative;
