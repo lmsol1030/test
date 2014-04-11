@@ -62,6 +62,8 @@ a:hover {
 	background-color: white;
 	margin-bottom: 10px;
 	font-family: Arial;
+}
+
 	
 	p:nth-child(4) {
    background-color : #00FF00;   
@@ -85,5 +87,5 @@ a:hover {
 
 #footer p {
 	position: relative;
-	padding-top: 15px;
+	padding-top: 30px;
 }
