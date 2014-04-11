@@ -55,8 +55,8 @@ a:hover {
 
 .right {
 	position: relative;
-	float: center;
-	margin-top: 50px;
+	float: right;
+	margin-top: 70px;
 	width: 88%;
 	height: 400px;
 	background-color: white;
