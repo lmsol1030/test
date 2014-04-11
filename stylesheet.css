@@ -41,6 +41,7 @@ h4 {
 	margin-right: 5px;
 	margin-top: -10px;
 	font-family: Arial;
+	text-align: center;
 	color: #000000;
 }
 
@@ -58,8 +59,8 @@ a:hover {
 	float: right;
 	margin-top: 50px;
 	width: 88%;
-	height: 600px;
-	background-color: #668284;
+	height: 450px;
+	background-color: white;
 	margin-bottom: 10px;
 }
 
