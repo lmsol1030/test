@@ -53,7 +53,7 @@ a:hover {
 
 
 
-.center {
+.right {
 	position: relative;
 	float: right;
 	margin-top: 50px;
@@ -62,6 +62,7 @@ a:hover {
 	background-color: #668284;
 	margin-bottom: 10px;
 }
+
 
 #footer {
 	position: relative;
