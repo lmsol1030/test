@@ -64,10 +64,9 @@ a:hover {
 }
 
 
-.li{	
-	font-family: Arial;
+li a { text-decoration : none;
+font-family: Arial;
 }
-
 
 
 
